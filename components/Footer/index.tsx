@@ -76,7 +76,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
+                    href="https://www.linkedin.com/in/mohamadjafari/"
                     aria-label="social-link"
                     className="mr-6 text-[#CED3F6] hover:text-primary"
                   >
@@ -118,13 +118,13 @@ const Footer = () => {
                     </a>
                   </li>
                   <li>
-                    <a
-                      href="/"
-                      className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
-                    >
-                      {" "}
-                      About{" "}
-                    </a>
+                        <a
+                          href="/about"
+                          className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
+                        >
+                          {" "}
+                          About{" "}
+                        </a>
                   </li>
                 </ul>
               </div>
